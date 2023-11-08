@@ -15,3 +15,6 @@ console.log(numero)
 console.log(altura)
 console.log(nome)
 console.log(estudando)
+
+
+//Vamos seguindo no segundo dia sem codar
