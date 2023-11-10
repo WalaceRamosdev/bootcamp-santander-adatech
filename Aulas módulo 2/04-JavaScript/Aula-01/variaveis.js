@@ -4,7 +4,6 @@ let idade = 26 //criando a primeira variavel
 
 console.log(idade)
 
-//tipos de variaveis
 
 let numero = 30    //number
 let altura = 1.77  //numbert
