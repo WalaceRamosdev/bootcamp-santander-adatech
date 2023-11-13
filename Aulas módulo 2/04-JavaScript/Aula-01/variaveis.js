@@ -16,4 +16,6 @@ console.log(nome, typeof nome)
 console.log(estudando, typeof estudando)
 
 
-let outra;
+let outra = undefined
+
+console.log (outra)
