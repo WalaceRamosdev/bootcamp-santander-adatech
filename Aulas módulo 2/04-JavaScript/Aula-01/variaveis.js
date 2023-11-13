@@ -11,7 +11,7 @@ let altura = 1.77  //number
 let nome = "Walace Toledo Ramos" //string
 let estudando = true // booleano
 
-console.log(numero)
-console.log(altura)
-console.log(nome)
-console.log(estudando)
+console.log(numero, typeof numero)
+console.log(altura, typeof)
+console.log(nome, typeof)
+console.log(estudando, typeof)
