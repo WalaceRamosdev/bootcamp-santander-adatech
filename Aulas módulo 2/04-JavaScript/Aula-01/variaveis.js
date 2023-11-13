@@ -1,6 +1,6 @@
 // variaveis
 
-let idade = 26 //criando a primeira variavel
+let idade = 26 // criando a primeira variavel
 
 console.log(idade)
 
