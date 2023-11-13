@@ -14,3 +14,6 @@ console.log(numero, typeof numero)
 console.log(altura, typeof altura)
 console.log(nome, typeof nome)
 console.log(estudando, typeof estudando)
+
+
+let outra;
