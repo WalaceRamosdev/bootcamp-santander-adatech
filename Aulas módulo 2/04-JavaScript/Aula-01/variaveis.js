@@ -19,3 +19,7 @@ console.log(estudando, typeof estudando)
 let outra = undefined
 
 console.log (outra)
+
+let nula = null
+
+console.log (nula)
