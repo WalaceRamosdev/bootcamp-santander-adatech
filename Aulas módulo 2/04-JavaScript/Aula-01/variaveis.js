@@ -7,7 +7,7 @@ console.log(idade)
 //tipos de variaveis
 
 let numero = 30    //number
-let altura = 1.77  //numbert
+let altura = 1.77  //number
 let nome = "Walace Toledo Ramos" //string
 let estudando = true // booleano
 
