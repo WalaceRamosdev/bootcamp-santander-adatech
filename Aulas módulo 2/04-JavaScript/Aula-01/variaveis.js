@@ -23,3 +23,9 @@ console.log (outra)
 let nula = null
 
 console.log (nula)
+
+var variavel = 30 // não utilizar o var
+console.log (variavel)
+
+const constante = 100
+constante = 20
