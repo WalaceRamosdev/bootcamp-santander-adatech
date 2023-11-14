@@ -1,14 +1,14 @@
 // > OPERADORES ARITMETICOS
 
-let numero1 = 20
-let numero2 = 2
+let primeiroNumero = 20
+let segundoNumero = 2
 
-// Adição            +
-// Subtração         -
-// Multiplicação     *
-// Divisão           /
-// Exponenciação     **
-// Resto da divisão  %
+// Adição:            +
+// Subtração:         -
+// Multiplicação:     *
+// Divisão:           /
+// Exponenciação:     **
+// Resto da divisão:  %
 
 
 // Precedência de operadores
